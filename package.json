@@ -1,0 +1,36 @@
+{
+  "name": "jimi-search-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "image-trace-loader": "^1.0.2",
+    "imagemin-optipng": "^8.0.0",
+    "imagemin-svgo": "^10.0.1",
+    "jimp": "^0.22.10",
+    "lqip-loader": "^2.2.1",
+    "net": "^1.0.2",
+    "next": "13.5.4",
+    "next-compose-plugins": "^2.2.1",
+    "next-images": "^1.8.5",
+    "next-optimized-images": "^2.6.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "responsive-loader": "^3.1.2",
+    "svg-sprite-loader": "^6.0.11",
+    "webp-loader": "^0.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "13.5.4",
+    "typescript": "^5"
+  }
+}
